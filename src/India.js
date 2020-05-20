@@ -55,7 +55,7 @@ function India2() {
         }}
       ></style>
       <div>
-        <p>Country: {state.name || 'None Selected'}</p>
+        <p>State: {state.name || 'None Selected'}</p>
         <svg height={height} width={width} id="map"></svg>
       </div>
     </>
